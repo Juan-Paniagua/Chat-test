@@ -1,0 +1,27 @@
+{
+  "name": "tcp-chat-utn",
+  "version": "0.0.1",
+  "description": "chat construido mediante el protocolo TCP en red local",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "ts-node server.ts",
+    "client": "ts-node client.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan-Paniagua/Chat-test.git"
+  },
+  "keywords": [
+    "tcp",
+    "chat",
+    "node",
+    "local"
+  ],
+  "author": "Juan Paniagua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan-Paniagua/Chat-test/issues"
+  },
+  "homepage": "https://github.com/Juan-Paniagua/Chat-test#readme"
+}
